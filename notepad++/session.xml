@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="760" startPos="1484" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\SRMLibrary\home1.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="728" startPos="551" endPos="642" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\notes\home2.html" />
+            <File firstVisibleLine="42" xOffset="0" scrollWidth="415" startPos="0" endPos="1146" selMode="0" lang="CSS" encoding="-1" filename="C:\xampp\htdocs\SRMLibrary\main1.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="520" startPos="453" endPos="453" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\ajax\ajax.html" />
+            <File firstVisibleLine="8" xOffset="0" scrollWidth="696" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\SRMLibrary\Login1.html" />
+            <File firstVisibleLine="16" xOffset="0" scrollWidth="1248" startPos="1576" endPos="1576" selMode="0" lang="HTML" encoding="-1" filename="C:\xampp\htdocs\SRMLibrary\userlogin.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="896" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\notes1\index.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="288" startPos="0" endPos="0" selMode="0" lang="CSS" encoding="-1" filename="C:\xampp\htdocs\notes1\nav.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="488" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\xampp\htdocs\notes1\nav.js" />
+            <File firstVisibleLine="48" xOffset="0" scrollWidth="696" startPos="1366" endPos="1366" selMode="0" lang="PHP" encoding="-1" filename="C:\xampp\htdocs\notes1\nav.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
